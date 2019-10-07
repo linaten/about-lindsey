@@ -1,4 +1,7 @@
+body {
+	background: radial-gradient(circle, white, deeppink);
 
+}
 
 h1 {
 	background-color: aquamarine;
